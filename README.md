@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Instructions for the use of physical imaging systems
 
 ## 一、修改左侧sidebar
@@ -47,7 +46,3 @@ sidebar: [
 ## 三、处理图片资源
 
 - 在/public/images目录下放入图片资源，该目录在进行打包时不会进行压缩，可直接使用
-=======
-# Physical-Image-System
-An Intelligent University Physics Image Library
->>>>>>> f0272eecc062e59a0a888268f1d1abd40f81ed4c
